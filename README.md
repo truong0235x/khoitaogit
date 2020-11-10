@@ -1,2 +1,2 @@
 # khoitaogit
-hoc buoi 1
+sua file
